@@ -1,0 +1,1 @@
+rename *.GIF *.JPG
